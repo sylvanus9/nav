@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/TIANLI0/nav/blob/main/nav',
+  gitRepoUrl: 'https://github.com/sylvanus9/nav/blob/main/nav',
 
   // 部署分支
   branch: 'main',
@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: false,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav.tianli0.top',
+  homeUrl: 'https://nav.sy1120.top',
 
   // 网站标题
   title: '发现导航 - 精选实用导航网站',
